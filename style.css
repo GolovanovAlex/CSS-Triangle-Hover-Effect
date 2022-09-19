@@ -8,6 +8,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  background-color: #fadadd;
 }
 .container {
   position: relative;
@@ -16,11 +17,11 @@ body {
   align-items: center;
   flex-wrap: wrap;
   width: 600px;
-  gap: 10px;
+  gap: 5px;
 }
 
-img {
-  width: 350px;
+.container .card img {
+  max-width: 600px;
   transition: 0.5s;
 }
 .container .card {
