@@ -3,3 +3,37 @@
   margin: 0;
   box-sizing: border-box;
 }
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 600px;
+  gap: 10px;
+}
+
+img {
+  width: 350px;
+  transition: 0.5s;
+}
+.container .card {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+  margin: 0 -75px;
+  clip-path: polygon(50% 100%, 0% 0%, 100% 0%);
+}
+.container .card:nth-child(2) {
+  clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+}
+.container .card:hover img {
+  transform: scale(1.5);
+}
