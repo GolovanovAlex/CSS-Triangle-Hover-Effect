@@ -1,5 +1,5 @@
 # CSS-Triangle-Hover-Effect
-# CSS-Glitch-Effect
+
 
 ### Use Skills
 
