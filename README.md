@@ -1,5 +1,4 @@
-# CSS-Triangle-Hover-Effect
-
+# CSS Triangle Hover Effect
 
 ### Use Skills
 
@@ -8,37 +7,24 @@
 
 ---
 
-[Demo Link <br>![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlexGolovanov/pen/KKowMry)
+[Demo Link <br>![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlexGolovanov/pen/RwJxqrm)
 
-![image-parallax.gif](readme/parallax.gif)
+![gif](readme/gif.gif)
 
 ## Info
 
-Создано на основе видео с Youtube канала [CODE WITH HOSSEIN](https://youtu.be/FHsYlL88HrI).  
-Для обучения и отработки работы с CSS.
+Создано на основе видео с Youtube канала [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers).
+
+Для обучения и отработки работы с **CSS**.  
+Создание анимированного интересного эффекта при наведении.
 
 ---
 
 ## Contacts
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GolovanovAlex)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LeConseiller_Alex)
-<a href="mailto:leconseiller@yandex.ru" style="font-size: 20px; color: black;">
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GolovanovAlex)
 
 - <a href="mailto:golovanov.a.a@yandex.ru" >Golovanov.a.a@yandex.ru</a>
 
-
-
-  
-  
-  
-  
-  
-  
-  
-
-  
-  
-  
-
-  
+<sub> Made with </sub>💙
